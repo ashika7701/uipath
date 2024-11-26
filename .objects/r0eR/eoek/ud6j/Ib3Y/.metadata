@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Passcode",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "Ib3YoTDCaEOXN4q5CwwgfQ",
+  "Reference": "5RSvNFDxQ06NBMIqffV6cg/Ib3YoTDCaEOXN4q5CwwgfQ",
+  "ParentRef": "5RSvNFDxQ06NBMIqffV6cg/ud6jbSXoQ0-1knkKvZ0uZw",
+  "Created": "2024-11-11T21:34:29.5409251Z",
+  "Updated": "2024-11-11T21:34:29.5409251Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

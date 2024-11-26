@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Password Reset Bot",
+  "Type": "App",
+  "Id": "r0eRI4dfSEWeacjN4nBTKA",
+  "Reference": "5RSvNFDxQ06NBMIqffV6cg/r0eRI4dfSEWeacjN4nBTKA",
+  "Created": "2024-11-11T21:05:09.5611727Z",
+  "Updated": "2024-11-11T21:05:09.5611727Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

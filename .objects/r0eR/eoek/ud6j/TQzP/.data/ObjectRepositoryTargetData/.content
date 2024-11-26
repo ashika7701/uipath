@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vQ2IGOqF5kWyjy-OpMfcFQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="64baec30-286b-4d9d-bce7-ce65137d631a" CvElementArea="481, 477, 424, 42" CvType="InputBox" DesignTimeRectangle="481, 477, 424, 42" DesignTimeScaleFactor="1" ElementType="InputBox" Guid="20fe07a2-6756-4630-a5af-f0593a84522b" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Password Reset Bot - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="64baec30-286b-4d9d-bce7-ce65137d631a" CvTextArea="482, 455, 65, 15" CvTextArgument="Email ID:" CvType="Text" DesignTimeRectangle="482, 455, 65, 15" ElementType="Text" Guid="c2740098-53e9-4d89-9b0a-93cf198c2ab1" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3a73e8a9c1351f397408bace42310f47.png" xmlns="">0WMBG2aldtEqT-bZRkDpNUw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

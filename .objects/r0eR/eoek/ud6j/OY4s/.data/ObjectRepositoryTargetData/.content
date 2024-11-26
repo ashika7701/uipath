@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LH5HfXvBLEapa_meLEyu5g" Reference="5RSvNFDxQ06NBMIqffV6cg/OY4spnAi8UenKExneKlclA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="8bfa6956-0176-4019-ba54-3f6853188568" CvElementArea="480, 611, 425, 41" CvTextArea="665, 623, 56, 15" CvTextArgument="924570" CvType="Button" DesignTimeRectangle="480, 611, 425, 41" DesignTimeScaleFactor="1" ElementType="Button" Guid="fd03f622-73c6-4630-8b68-c5f3ec26bfb2" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Password Reset Bot - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d7adbad1-39c7-477c-b898-1c446ebc2c46" CvElementArea="480, 628, 425, 42" CvType="InputBox" DesignTimeRectangle="480, 628, 425, 42" ElementType="InputBox" Guid="7016a55e-0ccb-4f6f-9c07-5f84d92f9f30" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target DesignTimeRectangle="255, 384, 22, 136" Guid="384dd7f1-8537-4ab1-af5b-b5669ee25ec9" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABYAAACICAYAAADj2BsIAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABaSURBVGhD7cyhDQAgAMAw/r+XkKDAkH2Aq6jtmGufH8QRRxxxxBFHHHHEEUccccQRRxxxxBFHHHHEEUccccQRRxxxxBFHHHHEEUccccQRRxxxxBFHHHHEzz4XPlhkBGOAKPkAAAAASUVORK5CYII=" SearchSteps="Image" TargetType="ImageBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="23c9928049ef1f85a10a121c98af3473.png" xmlns="">0ezGyk3QL0Uaaeyv5vW__UA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
